@@ -1,0 +1,3 @@
+# dotfiles
+
+sh dotfiles.sh
